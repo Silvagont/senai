@@ -2,5 +2,23 @@
  width: 100px;
  height: 100px;
  background-color: red;
-
+ font-size: 12px;
+ text-align: center;
+ line-height: 100px;
+}
+.JESUS{
+ width: 100px;
+ height: 100px;
+ background-color: yellow;
+ font-size: 12px;
+ text-align: center;
+ line-height: 100px;
+}
+.Rafa{
+ width: 100px;
+ height: 100px;
+ background-color: green;
+ font-size: 12px;
+ text-align: center;
+ line-height: 100px;
 }
