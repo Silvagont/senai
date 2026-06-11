@@ -1,0 +1,23 @@
+.conteiner{
+    position: relative;
+}
+.íconi{
+position: absolute
+
+}
+.íconi-1{
+left: 65px;
+top: 40px;
+}
+.íconi-02{
+    left: 65px;
+    top: 50px;
+}
+.íconi-03{
+left: 500px;
+top: 35px;
+}
+.iconi-04{
+left: 550px;
+top: 48px;
+}
